@@ -1,0 +1,52 @@
+What is problem statement?
+How the problem statement completed?
+	- taking the support og human being
+	- computer
+How we pass/given the instructions to human being/computer
+	- with communication languages and computer programming languages
+	- how to make instructions/statement with communication languages
+			- English
+	- how to make instructions/statement with computer languages
+			- Java
+=> Java Identifiers:
+		- comments
+			- //
+			- /* **** */
+			- /** ***** */
+		- Literals
+			- Numeric type
+				- integer type literals
+				- float type literals
+			- Character type Literals
+				- single character('')
+				- string character("")
+			- Boolean type
+				- true-1/false-0
+		- Keywords
+			- 68
+		- Data types
+			- Primitive
+				- Integer type
+				- Float type
+				- Character type
+				- Boolean type
+				
+			- Non-Primitive
+				- Derived
+					- Arrays and Strings 
+				- User defined
+					- Classes
+		- Variables
+			- Naming Convention
+			- Class-level
+			- method/block-level
+		- Expressions
+			- Operands
+				- variables and Constants
+			- Operators
+				- Unary
+					- ++/--
+				- Binary
+					- Arithmetic, Relational, Logical, Assignment and Bitwise
+				- Ternary
+					- Conditional (?:)
